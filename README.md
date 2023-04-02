@@ -24,6 +24,8 @@ def read():
 
 <span>Aplicação facilities flask api ativa, pesquise no navegador <br>localhost:5000/api/exibir-table?table= < nome_table > <br><span>
 
+## Documentação
+
 ### Função deletar uma tabela especifica tabela
 
 ```
@@ -121,5 +123,3 @@ def InsertTables():
 #### > VSCODE && PYTHON && FLASK
 
 #### > FIGMA && CANVA
-
-## Documentação
